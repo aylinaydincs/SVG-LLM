@@ -1,0 +1,27 @@
+CORRECT FOLDER STRUCTURE
+========================
+
+your-dataset/
+└── input/
+    ├── 5-agents-namecolumn/
+    │   ├── chatgpt-5.1/
+    │   │   ├── 12.svg          ← Id from CSV
+    │   │   ├── 6.svg           ← Id from CSV
+    │   │   ├── 8.svg           ← Id from CSV
+    │   │   └── ...
+    │   ├── gemini-3-pro-preview/
+    │   │   ├── 12.svg
+    │   │   ├── 6.svg
+    │   │   └── ...
+    │   └── sonnet-4.5/
+    │       ├── 12.svg
+    │       └── ...
+    ├── 5-agents-sentence/
+    │   ├── chatgpt-5.1/
+    │   ├── gemini-3-pro-preview/
+    │   └── sonnet-4.5/
+    └── single-shot-namecolumn/
+        ├── chatgpt-5.1/
+        ├── gemini-3-pro-preview/
+        └── sonnet-4.5/
+
