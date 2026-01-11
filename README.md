@@ -34,7 +34,7 @@ SVG-LLM/
 
 ### Option 1: Gemini Studio (Interactive UI - No Setup)
 
-**Try our prompts directly in a pre-configured notebook:**
+**Try our prompts directly in a created web app:**
 
 [**🌟 Launch Gemini Studio →**](https://ai.studio/apps/drive/16jO5RVF9L2HV-_BpDgHOExXqua341AvJ?fullscreenApplet=true)
 
